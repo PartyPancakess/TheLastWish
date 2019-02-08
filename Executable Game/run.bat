@@ -1,0 +1,1 @@
+start java -jar game.jar
