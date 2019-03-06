@@ -49,3 +49,6 @@ on the Run button.
 
 ## Contributors
 - Mert Şişman - *Music* - mertsisman0@gmail.com
+
+## License
+- Cannot be used for any type of public or commercial usage.
